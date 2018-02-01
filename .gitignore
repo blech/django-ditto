@@ -7,3 +7,7 @@ dist
 django_ditto.egg-info
 htmlcov
 build/
+
+*.pyc
+.DS_Store
+
